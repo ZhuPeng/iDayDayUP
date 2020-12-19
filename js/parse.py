@@ -32,5 +32,5 @@ for part in c.split('. ### '):
     write('q' + str_cnt(cnt) + '.md', q)
     write('a' + str_cnt(cnt) + '.md', a)
     cnt += 1
-    if cnt > 5:
-        break
+#     if cnt > 5:
+#         break
